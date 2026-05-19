@@ -1,0 +1,5 @@
+#Step1: Install libraries
+requests
+beautifulsoup4
+networkx
+matplotlib
